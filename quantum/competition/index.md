@@ -1,8 +1,8 @@
-# �ʎq���v���̕���
+# 量子競プロの部屋
 
-�ʎq���Z�v���̖��������������L���������Ă����܂��B�L�����̃\�[�X�R�[�h�̓R���e�X�g�����̎҂ł���A�Â��L�@��p�~���ꂽ�֐��Ȃǂ��܂ޏꍇ������܂��B
+量子競技プロの問題を解いたら解説記事を書いていきます。記事中のソースコードはコンテスト当時の者であり、古い記法や廃止された関数などを含む場合があります。
 
-����[���y�[�W](https://takeo1116.sakura.ne.jp/quantum/quantum.html)����R���e���c���ڍs���ł��B
+現在[旧ページ](https://takeo1116.sakura.ne.jp/quantum/quantum.html)からコンテンツを移行中です。
 
 ## Microsoft Q# Coding Contest - Summer 2018 - Warmup
 

@@ -1,9 +1,9 @@
-’|—Yi[takeo1116](https://twitter.com/takeo1116)j‚Ìƒz[ƒ€ƒy[ƒW‚Å‚·B
+ç«¹é›„ï¼ˆ[takeo1116](https://twitter.com/takeo1116)ï¼‰ã®ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ã§ã™ã€‚
 
-Œ»İA[‹Œƒy[ƒW](https://takeo1116.sakura.ne.jp/)‚©‚çƒRƒ“ƒeƒ“ƒc‚ğˆÚs’†
+ç¾åœ¨ã€[æ—§ãƒšãƒ¼ã‚¸](https://takeo1116.sakura.ne.jp/)ã‹ã‚‰ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’ç§»è¡Œä¸­
 
-## ƒRƒ“ƒeƒ“ƒc
+## ã‚³ãƒ³ãƒ†ãƒ³ãƒ„
 
-- ‹£‹ZƒvƒƒOƒ‰ƒ~ƒ“ƒOŠÖŒWiˆÚs’†j
-- [—Êqî•ñŠÖŒW](./quantum/index.md)
-- [‹@ŠBŠwKŠÖŒW](./machinelearning/index.md)
+- ç«¶æŠ€ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°é–¢ä¿‚ï¼ˆç§»è¡Œä¸­ï¼‰
+- [é‡å­æƒ…å ±é–¢ä¿‚](./quantum/index.md)
+- [æ©Ÿæ¢°å­¦ç¿’é–¢ä¿‚](./machinelearning/index.md)
