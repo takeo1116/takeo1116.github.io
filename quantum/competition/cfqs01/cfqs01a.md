@@ -1,10 +1,10 @@
-<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/x-mathjax-config"></script>
 <!-- <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script> -->
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 # Generate plus state or minus state
 
-## [問題URL](https://codeforces.com/contest/1001/problem/A)
+## [問題ページ](https://codeforces.com/contest/1001/problem/A)
 
 ## 問題の概要
 状態$\ket{0}$のqubitと整数$sign$が与えられる。$sign=1$のとき状態$\ket{+}=\frac{1}{\sqrt{2}}\left( \ket{0}+\ket{1} \right)$を、$sign=-1$のとき状態$\ket{-}=\frac{1}{\sqrt{2}}\left( \ket{0}-\ket{1} \right)$を作れ。
