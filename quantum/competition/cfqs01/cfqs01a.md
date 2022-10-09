@@ -1,20 +1,3 @@
-<script>
-MathJax = {
-  loader: {load: ['[tex]/physics']},
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    packages: {'[+]': ['physics']}
-  },
-  chtml: {
-    matchFontHeight: false
-  }
-};
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-
 # Generate plus state or minus state
 
 ## [問題ページ](https://codeforces.com/contest/1001/problem/A)
