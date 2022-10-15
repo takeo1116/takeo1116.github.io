@@ -7,3 +7,10 @@
 - 競技プログラミング関係（移行中）
 - [量子情報関係](./quantum/index.md)
 - [機械学習関係](./machinelearning/index.md)
+
+## テスト
+
+```mermaid
+graph LR
+  A --> B --> C
+```
