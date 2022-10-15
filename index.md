@@ -1,17 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
-<script>
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
-
 竹雄（[takeo1116](https://twitter.com/takeo1116)）のホームページです。
 
 現在、[旧ページ](https://takeo1116.sakura.ne.jp/)からコンテンツを移行中
