@@ -6,6 +6,8 @@
 
 ## ゲーム
 
+- [AlphaTensor](./alphatensor.md)
+
 ## 画像
 
 - [CNN+FCN](./cnn.md)

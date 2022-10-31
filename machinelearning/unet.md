@@ -11,7 +11,7 @@ U-NetはFCNの構造をもとにしたネットワークであり、逆畳み込
 
 ## ネットワーク構造
 
-|![U-Netの構造](./pics/unet.png)|
+|![](./pics/unet/unet.png)|
 |:--:|
 |*U-Netの構造 （[参考論文](https://arxiv.org/abs/1505.04597) より引用）*|
 
