@@ -2,8 +2,6 @@
 
 勉強したこととか
 
-## 基本的なこと
-
 ## ゲーム
 
 - [AlphaTensor](./alphatensor.md)
@@ -12,3 +10,7 @@
 
 - [CNN+FCN](./cnn.md)
 - [U-Net](./unet.md)
+
+## NLP
+
+- [Transformer](./transformer.md)
